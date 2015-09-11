@@ -411,4 +411,4 @@ Jekyll-bootstrap is intended to provide helper methods and strategies aimed at m
 Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
 or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
 
-![Image of Yaktocat](https://goo.gl/photos/6yedAmsnT4RSCSCd7)
+![윤아](https://lh3.googleusercontent.com/_kWGUliKmN0HE5xHQwg41jzMJRURe-TFtTLa4DsZ2BmotCmRw5UA-smMzaU9pDckbpoDgmIvjMdjpuE-DHTH5psQoEJrSy9xwCzAyS4_EpZu17PK_jLYgYx0GJWLfBtHtuPxsXPYGJdKOCvdKb3RafqbMiuDbwoJPzmyEg0pefIKMJdbzHno9CpbJY7UaA_amK_pcuX0A6huH7qHlYA0t8AIERb2G2t-OaFLJVlVCunJ7VvHvJcgQhNt-cDpFrMg43xr6F_pPDcI6vm1LDE6qZj5Icc1qjt_gXEIvkxm4OfzFzmpyy9xAdtSF_1YcJmh47HXgFKdObEXyzu2DWY_KG7HbjuwTvNY5aG7mj3Bi9EWFwLEl3LLfEQCMslwCCXh6N5nEqs1ISMaL7YYbmG6nSPP36y7jzXyEf5UzGNOvrOFTLQJ5pWZMOMMIXO_Lpzp-3pReVzj2_Soo9b60S2koufAGCQaeHT3WbyK9wONLKNcE-BU92fn3d16yTeoJdgEnV9LumC0N1neWf0_v8CFbwR1iUhIyj1l_sR8vMVlIjw=w863-h576-no)
